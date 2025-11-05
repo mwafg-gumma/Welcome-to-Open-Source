@@ -142,7 +142,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/134262640?v=4" width="100px;"
                         alt="Shuhaib Akthar" />
                     <br />
-                    <sub>
+                    <sub>k
                         <b>Shuhaib Akthar</b>
                     </sub>
                 </a>
@@ -153,7 +153,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                         alt="Mwafg Gumma Mohamed" />
                     <br />
                     <sub>
-                        <b>Mwafg Gumma </b>
+                        <b>Mwafg Gumma Mohamed</b>
                     </sub>
                 </a>
             </td>
