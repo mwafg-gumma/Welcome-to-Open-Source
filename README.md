@@ -142,7 +142,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <img src="https://avatars.githubusercontent.com/u/134262640?v=4" width="100px;"
                         alt="Shuhaib Akthar" />
                     <br />
-                    <sub>k
+                    <sub>
                         <b>Shuhaib Akthar</b>
                     </sub>
                 </a>
